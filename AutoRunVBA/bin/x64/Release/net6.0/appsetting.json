@@ -1,0 +1,16 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "DbConnection": "D:\\Autorun\\Book1.xlsx"
+  },
+  "Parameter": {
+    "Mailsender": "sompol_n@nichidai.co.th",
+    "SenderPass": "IDp48002021",
+    "Mailreceiver": "sompol_n@nichidai.co.th",
+    "workSheet": "Sheet1"
+  }
+}

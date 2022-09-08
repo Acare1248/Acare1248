@@ -1,0 +1,2 @@
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\win-x86\AutoRunVBA.pdb
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\win-x86\AutoRunVBA.exe

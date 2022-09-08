@@ -1,0 +1,5 @@
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\AutoRunVBA.exe
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\AutoRunVBA.dll
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\AutoRunVBA.deps.json
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\AutoRunVBA.runtimeconfig.json
+C:\Users\Charongsak_n\source\repos\AutoRunVBA\AutoRunVBA\bin\Release\net6.0\publish\AutoRunVBA.pdb
