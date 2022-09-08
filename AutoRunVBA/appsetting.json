@@ -8,7 +8,7 @@
     "DbConnection": "D:\\Book1.xlsx"
   },
   "Parameter": {
-    "Mailsender": "emailaccount@mail.com",
+    "Mailsender": "senderaccount@mail.com",
     "SenderPass": "mailpass",
     "Mailreceiver": "receiveraccount@mail.com",
     "workSheet": "Sheet1"
