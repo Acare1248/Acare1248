@@ -5,8 +5,6 @@ using System.Net.Mail;
 using System.Collections;
 using System.Text;
 using Microsoft.Extensions.Configuration;
-using System;
-using System.IO;
 
 namespace Macro
 {
